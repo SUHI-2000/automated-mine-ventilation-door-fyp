@@ -45,7 +45,7 @@ The system is centered around the Arduino NORVI Cema, which processes inputs fro
 | Uninterruptible Power Supply (UPS)| Ensures continuous operation during power failures.   |
 
 ## Software & Control Logic
-The control logic, written in C++/Arduino, is designed for reliability and safety. The full source code is available in the `code/` directory.
+The control logic, written in C++/Arduino, is designed for reliability and safety. The full source code is available in the `cautomated_ventilation_door_v2/` directory.
 
 **Core Logic:**
 1.  **Constant Monitoring:** The system continuously checks for signals from the IR obstacle sensors.
